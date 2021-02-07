@@ -1,1 +1,1 @@
-# Django-GraphQL-Test
+# Django-Test
